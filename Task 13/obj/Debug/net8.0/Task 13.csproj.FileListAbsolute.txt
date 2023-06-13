@@ -1,0 +1,15 @@
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\bin\Debug\net8.0\Task 13.exe
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\bin\Debug\net8.0\Task 13.deps.json
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\bin\Debug\net8.0\Task 13.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\bin\Debug\net8.0\Task 13.dll
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\bin\Debug\net8.0\Task 13.pdb
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.dll
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\refint\Task 13.dll
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.pdb
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\Task 13.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования\Homework 2\Task 13\obj\Debug\net8.0\ref\Task 13.dll
